@@ -1,6 +1,6 @@
 # Java Programs
 
-Author - Pramod
+Author - Jay Shankar
 
 This Repo contains the source code for the
 Exercise that we have done in the ATB7x batch
