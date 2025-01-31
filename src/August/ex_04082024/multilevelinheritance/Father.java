@@ -1,13 +1,15 @@
 package August.ex_04082024.multilevelinheritance;
 
-public class Father extends GrandFather{
-    void home(){
+public class Father extends GrandFather {
+    void home() {
         System.out.println("2BHK");
     }
-    void extra(){
+
+    void extra() {
         System.out.println("Something Extra");
     }
-    void f(){
+
+    void f() {
         System.out.println("F");
     }
 }

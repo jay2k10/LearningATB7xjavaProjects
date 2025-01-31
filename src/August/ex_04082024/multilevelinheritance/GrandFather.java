@@ -1,10 +1,11 @@
 package August.ex_04082024.multilevelinheritance;
 
 public class GrandFather {
-    void home(){
+    void home() {
         System.out.println("1BHK");
     }
-    void gf(){
+
+    void gf() {
         System.out.println("GF");
     }
 }
